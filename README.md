@@ -54,9 +54,12 @@
 
 ## Output:
 
+### Name: Aakashraj M
+### Register Number: 212222100002
 
-### Name:
-### Register Number: 
+![Output_exp1_empd](https://github.com/Aakashraj04/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/121117266/2e4ae6f9-87f5-479c-9b83-ab861f3668d8)
+
+
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
